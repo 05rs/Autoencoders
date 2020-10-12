@@ -32,9 +32,11 @@
 ![Image reconstruction loss](media/image_reconstruction_loss.png)
 
  5. Train for Image Denoising and plot the loss.
+ 
  ![image denoise loss](media/image_denoising_loss.png)
  
  6. Sample the prediction on test set.
+ 
  ![test prediction](media/cifar10_predict.png)
 
 
